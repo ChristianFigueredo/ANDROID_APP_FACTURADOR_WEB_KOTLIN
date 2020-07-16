@@ -1,0 +1,2 @@
+rootProject.name='Facturador Web'
+include ':app'
